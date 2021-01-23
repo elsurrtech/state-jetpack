@@ -1,14 +1,21 @@
-# Using State in Jetpack Compose Codelab
-
-This folder contains the source code for the [Using State in Jetpack Compose codelab](https://developer.android.com/codelabs/jetpack-compose-state).
+# Using State in Jetpack Compose 
 
 
-In this codelab, you will explore patterns for working with state in a declarative world by building a Todo application. We'll see what unidirectional
-data flow is, and how to apply it in a Jetpack Compose application to build stateless and stateful composables.
+ you will explore patterns for working with state in a declarative world by building a Todo application. We'll see what unidirectional
+data flow is, and how to apply it in a Jetpack Compose application to build stateless and stateful composables
+
+#Topics Covered
+* Unidirectional data flow
+* state and events in UI
+* ViewModel and LiveData
+* State<T>
+
+.
 
 ## Screenshots
 
 ![Finished code](screenshots/state_movie.gif "After: Animation of fully completed project")
+
 
 ## License
 
